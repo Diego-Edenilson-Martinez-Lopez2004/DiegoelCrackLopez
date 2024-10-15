@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;Dev/&gt;!
+  𝐇𝐞𝐥𝐥𝐨, &lt;Diego/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
